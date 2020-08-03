@@ -585,5 +585,11 @@ h3.ftr-widget-title {
 	.ftr-btm-logo img {
 		margin: 5px;
 	}
+	.ftr-bg {
+	    padding: 20px 15px 50px;
+	}
+	.ftr-btm-logo img {
+	    width: 70px;
+	}
 
 }
